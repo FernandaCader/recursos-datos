@@ -10,7 +10,7 @@ Creado por: [Fernanda Cader](https://github.com/FernandaCader)
   Recopilación de recursos para estudiantes de Ciencia De Datos.
 </p>
 
-
+Plantilla tomada de [Acadeller] https://github.com/Acadeller
 </div>
 
 # Tabla de contenidos 💡
@@ -22,7 +22,7 @@ Creado por: [Fernanda Cader](https://github.com/FernandaCader)
 
 # Resumen
 
-[Datos Para Todos](https://github.com/Acadeller) Hola mi nombre es Fernanda Cader, decidi formar la comunidad Datos Para Todos para impulsar a las personas en el mundo del la ciencia de datos. Que empezó siendo una pequeña cuenta de Youtube que hacía publicaciones sobre ciencia de datos. A día de hoy contamos con más de 700 seguidores en Yotube y 500 en Telegram, pero el objetivo de la comunidad sigue siendo el mismo: ***ayudar a la gente a aprender ciencia de datos.***
+Datos Para TodosHola mi nombre es Fernanda Cader, decidi formar la comunidad Datos Para Todos para impulsar a las personas en el mundo del la ciencia de datos. Que empezó siendo una pequeña cuenta de Youtube que hacía publicaciones sobre ciencia de datos. A día de hoy contamos con más de 700 seguidores en Yotube y 500 en Telegram, pero el objetivo de la comunidad sigue siendo el mismo: ***ayudar a la gente a aprender ciencia de datos.***
 
 Por esa razón, nace este repositorio. Cuyo objetivo principal, es recopilar la mayor cantidad posible de recursos de ciencias de datos que existan en internet, para que estén al alcance de cualquier persona en todo momento. El repositorio está dividido por bases de programación, cursos y carreras, también se adjuntarán todos los recursos que enriquezcan la comunidad (se puede colocar tu canal de Youtube/Redes siempre y cuando sea sobre Ciencia De Datos)
 
