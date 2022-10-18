@@ -123,7 +123,7 @@ Nombre | Descripción                                                           
 | Datacamp | Plataforma para aprender todo lo indispensable en análisis y ciencia de datos                                                                                                                                                                                                                                                                                                                                        | Cursos              | Inglés  | No | [Link](https://www.datacamp.com/) |
 | MITx | Si usted cuenta con un capital, puede formarse en MIT, debe tener conocimientos avanzados de data science, pero puede verificar en LinkedIn que la gente que ha hecho la siguiente carrera ha conseguido empleo. Usted puede solicitar asistencia financiera para que le hagan un gran descuento, la carrera sale 1350 USD, con descuento saldría 150 USD, ya que cada curso con descuento vale 30 USD(son 5 cursos) | Cursos              | Inglés  | No | [Link](https://micromasters.mit.edu/ds/) |
  |A2 Capacitación | Curso de Excel recomendado                                                                                                                                                                                                                                                                                                                                                                                           | Curso               | Español | No | [Link] (https://a2capacitacion.com/)
-
+| Excel | Aprende Excel de manera interactiva | Curso | Inglés | Sí | [Link](https://excel-practice-online.com/)
 
 **[⬆ Volver al índice](#índice)**
 
@@ -138,12 +138,12 @@ Nombre | Descripción | Tipo | Idioma | Gratuito | Link |
 
 ### Recursos
 
-Nombre | Descripción                                                                                                                         | Tipo    | Idioma  | Link |                                                                                                               |	
-|---|-------------------------------------------------------------------------------------------------------------------------------------|---------|---------|---|---------------------------------------------------------------------------------------------------------------|
-| Ayuda Financiera Coursera | Esto es como conseguir cursos gratis de coursera con certificado (así hice el de análisis de datos de Google que sale 250 dólares)  | Recurso | Español | Sí | [Link](https://www.youtube.com/watch?v=gAxhi4LWJ1M)                                                           |
-| Ayuda Financiera EDX | Esto es como conseguir cursos gratis de EDX con certificado                                                                         | Recurso | Español | Sí | [Link](https://support.edx.org/hc/es-419/articles/215167857--C%C3%B3mo-puedo-solicitar-ayuda-financiera-)     |
+ Nombre                         | Descripción                                                                                                                         | Tipo    | Idioma  | Link |                                                                                                               |	
+|--------------------------------|-------------------------------------------------------------------------------------------------------------------------------------|---------|---------|---|---------------------------------------------------------------------------------------------------------------|
+| Ayuda Financiera Coursera      | Esto es como conseguir cursos gratis de coursera con certificado (así hice el de análisis de datos de Google que sale 250 dólares)  | Recurso | Español | Sí | [Link](https://www.youtube.com/watch?v=gAxhi4LWJ1M)                                                           |
+| Ayuda Financiera EDX           | Esto es como conseguir cursos gratis de EDX con certificado                                                                         | Recurso | Español | Sí | [Link](https://support.edx.org/hc/es-419/articles/215167857--C%C3%B3mo-puedo-solicitar-ayuda-financiera-)     |
 | Plantilla para solicitar becas | Plantilla para solicitar becas                                                                                                      | Recurso | Inglés(traducir) | Sí      | [Link](https://github.com/chauhannaman98/edX-financial-assistance-answers/blob/master/README.md)   |             
-| Challenge alkemy | Recurso                                                                                                                            | Recurso | Español | Sí      | [Link](https://github.com/akalautaro/challenge-data-alkemy/blob/main/Challenge_Data_Analytics_con_Python.pdf) |
+| Challenge Alkemy               | Recurso                                                                                                                            | Recurso | Español | Sí      | [Link](https://github.com/akalautaro/challenge-data-alkemy/blob/main/Challenge_Data_Analytics_con_Python.pdf) |
 
 
 **[⬆ Volver al índice](#índice)**
