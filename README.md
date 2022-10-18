@@ -10,7 +10,7 @@ Creado por: [Fernanda Cader](https://github.com/FernandaCader)
   Recopilación de recursos para estudiantes de Ciencia De Datos.
 </p>
 
-Plantilla tomada de [Acadeller] https://github.com/Acadeller
+Plantilla tomada de [Acadeller](https://github.com/Acadeller)
 </div>
 
 # Tabla de contenidos 💡
@@ -22,7 +22,7 @@ Plantilla tomada de [Acadeller] https://github.com/Acadeller
 
 # Resumen
 
-Datos Para TodosHola mi nombre es Fernanda Cader, decidi formar la comunidad Datos Para Todos para impulsar a las personas en el mundo del la ciencia de datos. Que empezó siendo una pequeña cuenta de Youtube que hacía publicaciones sobre ciencia de datos. A día de hoy contamos con más de 700 seguidores en Yotube y 500 en Telegram, pero el objetivo de la comunidad sigue siendo el mismo: ***ayudar a la gente a aprender ciencia de datos.***
+Datos Para Todos, hola mi nombre es Fernanda Cader, decidi formar la comunidad Datos Para Todos para impulsar a las personas en el mundo del la ciencia de datos. Que empezó siendo una pequeña cuenta de Youtube que hacía publicaciones sobre ciencia de datos. A día de hoy contamos con más de 700 seguidores en Yotube y 500 en Telegram, pero el objetivo de la comunidad sigue siendo el mismo: ***ayudar a la gente a aprender ciencia de datos.***
 
 Por esa razón, nace este repositorio. Cuyo objetivo principal, es recopilar la mayor cantidad posible de recursos de ciencias de datos que existan en internet, para que estén al alcance de cualquier persona en todo momento. El repositorio está dividido por bases de programación, cursos y carreras, también se adjuntarán todos los recursos que enriquezcan la comunidad (se puede colocar tu canal de Youtube/Redes siempre y cuando sea sobre Ciencia De Datos)
 
@@ -116,23 +116,31 @@ Nombre | Descripción                                                           
 | Ialab | Inteligencia Artificial, aplicar a beca                                                                                                                                                                                                                                                                                                                                                                              | Cursos              | Español | Sí | [Link](https://ialab.com.ar/programa-de-formacion-multidisciplinario-de-inteligencia-artificial/  ) |
 | Huawei | Cursos con certificado de Huawei                                                                                                                                                                                                                                                                                                                                                                                     | Cursos              | Español | Sí | [Link](https://e.huawei.com/en/talent/learning/#/home?productTags=&productName=&navType=learningNavKey ) 
 | Cognitive Class | ]Bootcamp gratis de ciencia de datos                                                                                                                                                                                                                                                                                                                                                                                 | Cursos              | Inglés  | Sí | [Link](https://e.huawei.com/en/talent/learning/#/home?) 
-| DeepLearning | Cursos | Cursos | Inglés  | Sí                  | [Link](https://www.deeplearning.ai/ ) 
+| DeepLearning | Cursos | Cursos              | Inglés  | Sí                  | [Link](https://www.deeplearning.ai/ ) 
 | Google | Análisis de Datos                                                                                                                                                                                                                                                                                                                                                                                                    | Cursos              | Español | Se puede aplicar a beca | [Link](https://www.coursera.org/professional-certificates/analisis-de-datos-de-google) |
 | OpenBootcamp | Cursos de big data y formación para el trabajo                                                                                                                                                                                                                                                                                                                                                                       | Cursos              | Español | Sí | [Link](https://campus.open-bootcamp.com/) |
-| CodigoFacilito | Plataforma para aprender análisis y ciencia de datos                                                                                                                                                                                                                                                                                                                                                                 | Español             | No      | [Link](https://codigofacilito.com/categories/especialidad-de-ciencia-de-datos/ ) |
+| CodigoFacilito | Plataforma para aprender análisis y ciencia de datos                                                                                                                                                                                                                                                                                                                                                                | Cursos              | Español             | No      | [Link](https://codigofacilito.com/categories/especialidad-de-ciencia-de-datos/ ) |
 | Datacamp | Plataforma para aprender todo lo indispensable en análisis y ciencia de datos                                                                                                                                                                                                                                                                                                                                        | Cursos              | Inglés  | No | [Link](https://www.datacamp.com/) |
 | MITx | Si usted cuenta con un capital, puede formarse en MIT, debe tener conocimientos avanzados de data science, pero puede verificar en LinkedIn que la gente que ha hecho la siguiente carrera ha conseguido empleo. Usted puede solicitar asistencia financiera para que le hagan un gran descuento, la carrera sale 1350 USD, con descuento saldría 150 USD, ya que cada curso con descuento vale 30 USD(son 5 cursos) | Cursos              | Inglés  | No | [Link](https://micromasters.mit.edu/ds/) |
+<<<<<<< Updated upstream
  |A2 Capacitación | Curso de Excel recomendado                                                                                                                                                                                                                                                                                                                                                                                           | Curso               | Español | No | [Link] (https://a2capacitacion.com/)
 | Excel | Aprende Excel de manera interactiva | Curso | Inglés | Sí | [Link](https://excel-practice-online.com/)
 
+=======
+ |A2 Capacitación | Curso de Excel recomendado                                                                                                                                                                                                                                                                                                                                                                                           | Curso               | Español | No | [Link](https://a2capacitacion.com/)
+|Open Salud Lab | Bootcamp Ciencia de Datos con R | Bootcamp            | Español | Sí | [Link](https://www.youtube.com/playlist?list=PLsv7dA-wqwS-P2u7ryDQiulu-eUYOT-9J)
+| PYTHON CHARTS | La nueva web de visualización de datos | Página web          | Español | Sí | [Link](https://python-charts.com/es/)
+| Mundos E - Data Science | Certificación universitaria de la Universidad Nacional de Córdoba | Página web          | Español | No | [Link](https://www.mundose.com/programs/8)
+>>>>>>> Stashed changes
 **[⬆ Volver al índice](#índice)**
 
 ## Aceleradoras
 
-Nombre | Descripción | Tipo | Idioma | Gratuito | Link |
-|---|---|---|---|---|---|
-| Alkemy | Aceleradora | Empleo | Español | Sí | [Link](https://www.alkemy.org/) |
-
+Nombre | Descripción | Tipo                                   | Idioma | Gratuito                      | Link |
+|---|---|----------------------------------------|---|-------------------------------|---|
+| Alkemy | Aceleradora | Empleo                                 | Español | Sí                            | [Link](https://www.alkemy.org/) |
+| NoCountry | Aceleradora | Por ahora no posee orientación a Datos | Español | Sí                            | [Link](https://www.nocountry.tech/)
+| IdForIdeas | Aceleradora | Próximamente Data Analytics            | Español | Tiene opciones free y pagas | [Link](https://idforideas.com/)
 
 **[⬆ Volver al índice](#índice)**
 
@@ -283,6 +291,7 @@ Una vez que hayas enviado tu "pull request", los colaboradores podremos revisar 
 
 ## Contribuidores 🏆
 
-* [Fernanda Cader](https://github.com/): Fundadora de Datos Para Todos.
+* [Fernanda Cader](https://github.com/FernandaCader): Fundadora de Datos Para Todos.
+* [Nicolás Montenegro](https://github.com/nicolascmontenegro): Primer Colaborador.
 
 
