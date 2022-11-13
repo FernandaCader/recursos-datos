@@ -122,16 +122,15 @@ Nombre | Descripción                                                           
 | CodigoFacilito | Plataforma para aprender análisis y ciencia de datos                                                                                                                                                                                                                                                                                                                                                                | Cursos              | Español             | No      | [Link](https://codigofacilito.com/categories/especialidad-de-ciencia-de-datos/ ) |
 | Datacamp | Plataforma para aprender todo lo indispensable en análisis y ciencia de datos                                                                                                                                                                                                                                                                                                                                        | Cursos              | Inglés  | No | [Link](https://www.datacamp.com/) |
 | MITx | Si usted cuenta con un capital, puede formarse en MIT, debe tener conocimientos avanzados de data science, pero puede verificar en LinkedIn que la gente que ha hecho la siguiente carrera ha conseguido empleo. Usted puede solicitar asistencia financiera para que le hagan un gran descuento, la carrera sale 1350 USD, con descuento saldría 150 USD, ya que cada curso con descuento vale 30 USD(son 5 cursos) | Cursos              | Inglés  | No | [Link](https://micromasters.mit.edu/ds/) |
-<<<<<<< Updated upstream
+|
  |A2 Capacitación | Curso de Excel recomendado                                                                                                                                                                                                                                                                                                                                                                                           | Curso               | Español | No | [Link] (https://a2capacitacion.com/)
 | Excel | Aprende Excel de manera interactiva | Curso | Inglés | Sí | [Link](https://excel-practice-online.com/)
-
-=======
- |A2 Capacitación | Curso de Excel recomendado                                                                                                                                                                                                                                                                                                                                                                                           | Curso               | Español | No | [Link](https://a2capacitacion.com/)
+|
 |Open Salud Lab | Bootcamp Ciencia de Datos con R | Bootcamp            | Español | Sí | [Link](https://www.youtube.com/playlist?list=PLsv7dA-wqwS-P2u7ryDQiulu-eUYOT-9J)
 | PYTHON CHARTS | La nueva web de visualización de datos | Página web          | Español | Sí | [Link](https://python-charts.com/es/)
 | Mundos E - Data Science | Certificación universitaria de la Universidad Nacional de Córdoba | Página web          | Español | No | [Link](https://www.mundose.com/programs/8)
->>>>>>> Stashed changes
+
+
 **[⬆ Volver al índice](#índice)**
 
 ## Aceleradoras
@@ -246,7 +245,8 @@ En Argentina
 | Tenicatura Superior En Ciencia de Datos e Inteligencia Artificial ISPC | Página Web ISPC | Carrera | Español | Sí | [Link](https://www.ispc.edu.ar/tecnicatura-datos/) |
 | Tenicatura Superior En Ciencia de Datos e Inteligencia Artificial INSET | Solo para personas que vivan en la provincia de Santa Cruz - Argentina | Carrera | Español | Sí | [Link](https://inset.edu.ar/carreras-inset/tecnicatura-superior-en-ciencia-de-datos-e-inteligencia-artificial/) |
 | Licenciatura en Análisis y Gestión de Datos ISPC | Página Web UNSL | Carrera | Español | Sí | [Link](https://carreras.unsl.edu.ar/carreras/lic-analisis-gest-datos) |
-
+| Tecnicatura Superior En Ciencia de Datos e Inteligencia Artificial IFTS | Página WEB Gobierno de la ciudad | Carrera | Español | Sí | [Link](https://agenciadeaprendizaje.bue.edu.ar/curso/tecnicatura-superior-en-ciencias-de-datos-e-inteligencia-artificial/)
+| Tecnicatura en Ciencia De Datos | Página web Universidad del Gran Rosario | Carrera | Español | Sí | [Link](https://ugr.edu.ar/carreras/tecnicatura-universitaria-en-ciencia-de-datos/)
 **[⬆ Volver al índice](#índice)**
 
 # Contribución
