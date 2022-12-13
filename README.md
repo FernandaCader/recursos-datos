@@ -244,9 +244,9 @@ En Argentina
 |---|---|---|---|---|---|
 | Tenicatura Superior En Ciencia de Datos e Inteligencia Artificial ISPC | Página Web ISPC | Carrera | Español | Sí | [Link](https://www.ispc.edu.ar/tecnicatura-datos/) |
 | Tenicatura Superior En Ciencia de Datos e Inteligencia Artificial INSET | Solo para personas que vivan en la provincia de Santa Cruz - Argentina | Carrera | Español | Sí | [Link](https://inset.edu.ar/carreras-inset/tecnicatura-superior-en-ciencia-de-datos-e-inteligencia-artificial/) |
-| Licenciatura en Análisis y Gestión de Datos ISPC | Página Web UNSL | Carrera | Español | Sí | [Link](https://carreras.unsl.edu.ar/carreras/lic-analisis-gest-datos) |
+| Licenciatura en Análisis y Gestión de Datos ISPC | Página Web UNSL | Carrera | Español | Sí | [Link](https://carreras.unsl.edu.ar/carreras/lic-analisis-y-gest-datos) |
 | Tecnicatura Superior En Ciencia de Datos e Inteligencia Artificial IFTS | Página WEB Gobierno de la ciudad | Carrera | Español | Sí | [Link](https://agenciadeaprendizaje.bue.edu.ar/curso/tecnicatura-superior-en-ciencias-de-datos-e-inteligencia-artificial/)
-| Tecnicatura en Ciencia De Datos | Página web Universidad del Gran Rosario | Carrera | Español | Sí | [Link](https://ugr.edu.ar/carreras/tecnicatura-universitaria-en-ciencia-de-datos/)
+| Tecnicatura en Ciencia De Datos | Página web Universidad del Gran Rosario | Carrera | Español | No(20.000 ARS 15/11/2022) | [Link](https://ugr.edu.ar/carreras/tecnicatura-universitaria-en-ciencia-de-datos/)
 **[⬆ Volver al índice](#índice)**
 
 # Contribución
